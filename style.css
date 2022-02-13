@@ -1,17 +1,17 @@
  * {
-     margin: 100;
-     padding: 100;
+     margin: 0;
+     padding: 0;
  }
  
  body {
-     margin: 100 px;
-     background-color: #F3F2EF;
+     margin: 0 px;
+     background-color: #817f79;
  }
  /*start style navigation*/
  
  .navigation {
      display: flex;
-     background-color: #FFFFFF;
+     background-color: #726fa0;
  }
  
  .navigation-width {
