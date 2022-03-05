@@ -124,17 +124,15 @@ body {
   border-radius: 50px;
   flex-direction: row;
 }
-.card22 ul{
-  flex direction: column;
-}
-.card22 ul li {
+
+.card22 ul {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  flex-direction: column;
+  flex direction: row;
 }
 
-.card22 ul li img {
+.card22 ul img {
   display: flex;
   width: 50px;
   height: 50px;
@@ -156,9 +154,20 @@ body {
 }
 
 
+.card2222 {
+  display: flex;
+  align-items: center;
+  flex direction: row;
+}
+
+
+
 .card3 {
   width: 33%;
   background-color: blue;
 }
 
+.card33 {
+
+}
 /*end of main*/
