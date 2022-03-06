@@ -111,8 +111,8 @@ body {
   margin: 0 auto;
 }
 .rekrut {
-  border-top: 1px;
-  color: #c4c4c4;
+  border: 3px;
+  border-color: #220909;
 }
 
 .card2 {
@@ -173,6 +173,9 @@ body {
 }
 
 .card33 {
-
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex direction: row;
 }
 /*end of main*/
