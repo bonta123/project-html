@@ -31,6 +31,7 @@ body {
   justify-content: space-between;
   flex-direction: row;
   border: 27px;
+  
 }
 
 .navigation-link ul li {
@@ -38,6 +39,7 @@ body {
   justify-content: space-between;
   align-items: center;
   flex-direction: column;
+  margin-right: 30px;
 }
 
 .navigation-link ul li img {
@@ -76,14 +78,14 @@ body {
 }
 
 .card1 {
-  width: 224px;
-  height: 217px;
+  margin-left: 243px;
+  margin-top: 85px;
+  margin-bottom: 960px;
   background-color: aqua;
 }
 .card11 {
   background: white;
-  height: 354px;
-  width: 224px;
+  
 }
 .card11 li {
   display: flex;
@@ -102,15 +104,15 @@ body {
   border-radius: 50px;
 }
 .card111 {
-  border-top: 13px;
+  margin-top: 13px;
+  background: white;
 }
 .card111 li {
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  align-items: left;
   flex-direction: column;
   list-style: none;
-  margin: 0 auto;
 }
 .rekrut {
   border: 3px;
@@ -118,7 +120,9 @@ body {
 }
 
 .card2 {
-  width: 33%;
+  margin-top: 23px;
+  margin-left: 20px;
+  margin-bottom: 52px;
   background-color: burlywood;
 }
 
